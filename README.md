@@ -63,5 +63,5 @@ const andile = {
 
 <div align="left">
   
-[![@thabang077's Holopin badges](https://holopin.me/lohitkolluri)](https://holopin.io/@lohitkolluri)
+[![@thabang077's Holopin badges](https://holopin.me/lohitkolluri)](https://holopin.io/@thabang077)
 </div>

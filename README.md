@@ -2,19 +2,15 @@
 
   <h1>Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> I'm Andile Ramakgale</h1>
   
-  <a href="https://linkedin.com/in/kollurilohit">
+  <a href="https://linkedin.com/in/thabang077">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://lohit.is-a.dev/">
+  <a href="https://thabang077.github.io/Andile-Ramakgale-Personal-Website/">
     <img src="https://img.shields.io/badge/Website-%23171717.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
-  <a href="https://github.com/lohitkolluri">
-    <img src="https://komarev.com/ghpvc/?username=lohitkolluri&style=for-the-badge&color=brightgreen" alt="Profile Views">
-  </a>
-  <a href="https://www.npmjs.com/package/lohitkolluri">
-    <img src="https://img.shields.io/badge/CLI-npx_lohitkolluri-red?style=for-the-badge&logo=npm&logoColor=white" alt="CLI Card">
-  </a>
-  
+  <a href="https://github.com/thabang077">
+    <img src="https://komarev.com/ghpvc/?username=thabang077&style=for-the-badge&color=brightgreen" alt="Profile Views">
+  </a> 
 </div>
 
 
@@ -29,7 +25,7 @@ const andile = {
   interest :['Front Dev', 'Full Stack Development'],
   current:  'Python & Working on Full Stack Projects',
   tech: {
-    backend:  ['PHP','Node.js', 'C#'],
+    backend:  ['PHP', 'Node.js', 'C#'],
     frontend: ['React.js', 'Asp.net', 'Bootstrap', 'Tailwind CSS'],
   },
   funFact: "Why did the programmer fail his eye exam? Because he couldn’t C# anymore! 👓😂",
@@ -42,12 +38,12 @@ const andile = {
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  
   <img src="https://skillicons.dev/icons?i=react,next,threejs,tailwind,nodejs,express" />
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,github,linux" />
-  <img src="https://skillicons.dev/icons?i=flask,django,fastapi,postgresql,mysql,mongodb" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-  <img src="https://skillicons.dev/icons?i=arduino,bash,discordjs,githubactions" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=bash" />
 </div>
 
 <h2 align="left">
@@ -67,5 +63,5 @@ const andile = {
 
 <div align="left">
   
-[![@lohitkolluri's Holopin badges](https://holopin.me/lohitkolluri)](https://holopin.io/@lohitkolluri)
+[![@thabang077's Holopin badges](https://holopin.me/thabang077)](https://holopin.io/@thabang077)
 </div>
